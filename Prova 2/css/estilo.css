@@ -1,0 +1,16 @@
+* {
+    margin: 0%;
+    padding: -1%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    
+    
+}
+
+input{
+    width: 100%;
+    text-align: center;
+}
