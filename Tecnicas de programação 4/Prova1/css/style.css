@@ -1,0 +1,20 @@
+.centroimagem {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-bottom: 80px;
+    margin-top: 30px;
+  }
+  .imagem {
+    text-align: center;
+    
+  }
+ 
+  .centralizar {
+      text-align: center;
+      
+  }
+ 
+  .borda {
+    border: 1px solid rgba(5, 5, 5, 0.8);
+ 
+  }
